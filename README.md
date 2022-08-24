@@ -15,4 +15,4 @@ set settings.py (create and fill in file .env)
 run the project - command - python manage.py runserver
 
 ## Contributing 
-You could send PR
+You could call PR
